@@ -10,7 +10,6 @@ Cartridge-Version: 0.0.5
 Cartridge-Vendor: wildfly
 Categories:
 - service
-- web_framework
 - java
 - wildfly
 - java_ee_7
